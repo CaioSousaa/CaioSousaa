@@ -6,10 +6,10 @@
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() caiothalles607@gmail.com
 
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?CaioSousaa=anuraghazra&show_icons=true&theme=gruvbox)
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSousaa_icons=true&theme=gruvbox)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CaioSousaa=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSousaa_progress=true)
 
 ### Tecnologias que uso no meu dia-dia
 
