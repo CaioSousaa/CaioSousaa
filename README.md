@@ -7,6 +7,10 @@
 
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?CaioSousaa=anuraghazra&show_icons=true&theme=gruvbox)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CaioSousaa=anuraghazra&hide_progress=true)
+
 ### Tecnologias que uso no meu dia-dia
 
 <div style="display: inline_block"><br/>
