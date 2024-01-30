@@ -6,8 +6,7 @@
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() caiothalles607@gmail.com
 
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSousaa&show_icons=true&theme=dracula)
-
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?CaioSousaa=anuraghazra&show_icons=true&theme=gruvbox)
 ### Tecnologias que uso no meu dia-dia
 
 <div style="display: inline_block"><br/>
