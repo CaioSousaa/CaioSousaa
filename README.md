@@ -1,15 +1,17 @@
 ### Olá! Eu sou Caio Sousa 👋🏼
 
 ### Um pouco sobre mim
+
 Atualmente, desenvolvo como back-end visando a criação de aplicações WEB. Acredito que o trabalho em equipe é algo fundamental para o meu desenvolvimento, tanto como profissional, como também como pessoa, assim, concentro minhas habilidades para desenvolver códigos de qualidade e segurança. Meu maior objetivo é aperfeiçoar meu perfil profissional em oportunidades de integração e desenvolvimento no mercado developer.
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-sousa-332a57288/)
-[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiorocha.__/)
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( caiothalles607@gmail.com)
+<br>
+<br>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-sousa-332a57288/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiorocha.__/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caiothalles607@gmail.com)
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSousaa&show_icons=true&theme=synthwave)
-
 
 ### Tecnologias que uso no meu dia-dia
 
@@ -26,5 +28,8 @@ Atualmente, desenvolvo como back-end visando a criação de aplicações WEB. Ac
      <img aling ="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
      <img aling ="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
      <img aling ="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-     <img aling ="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)">
+     <img aling ="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img aling ="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img aling ="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+    <img aling ="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
